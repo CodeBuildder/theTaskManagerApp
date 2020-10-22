@@ -4,11 +4,11 @@ Using different routers, the Users can CRUD their accounts and tasks which will 
 
 The User account details and the password which is hashed will be stored in MongoDB along with the tasks which can be added to individual users.
 
-Some Commands that can be used in POSTMAN after copying the URL : https://thetaskmanagerapp.herokuapp.com
+Documentation for the application to be run on POSTMAN after copying the URL : https://thetaskmanagerapp.herokuapp.com
  
  
  <h1> Documentation: </h1>
- ___________________________________________________________________________________________________________________________________
+ __________________________________________________________________________________________________________________________________________________________________
  POST function: 
  
 /users: Creating a Username to the DataBase.
